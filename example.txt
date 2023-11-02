@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fahim AhmedThis is some different content in the main file.
+=======
+Fahim AhmedThis is some content in the test-branch file.
+>>>>>>> test-branch
